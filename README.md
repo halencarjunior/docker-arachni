@@ -33,7 +33,7 @@ Depois de conectado, executamos dentro do container o comando:
 ```
 $ arachni_web_task db:setup
 ```
-Pronto, agora podemos acessar nossa Web_ui do Arachni pelo endereço:
+Agora podemos acessar nossa Web_ui do Arachni pelo endereço:
 
 http://localhost:9292
 
